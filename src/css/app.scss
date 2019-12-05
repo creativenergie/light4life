@@ -1,0 +1,8 @@
+// app global css in SCSS form
+
+
+@mixin mobile-theme-screen {
+    @media only screen and (max-width: $breakpoint-xs-max) {
+        @content;
+    }
+}

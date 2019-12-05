@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 842 596" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="g12" transform="matrix(1.33333,0,0,-1.33333,0,595.275)">
+        <g transform="matrix(0.844368,2.26573e-32,2.26573e-32,0.844368,278.794,-23.7367)">
+            <g id="path12804" transform="matrix(0.200742,0,0,-0.200742,-391.103,451.133)">
+                <path d="M3282,291.188C3019.82,306.7 2812,524.241 2812,790.313C2812,1056.38 3019.82,1273.92 3282,1289.44L3282,1288.06L3282,1161.81L3282,1130.56C3112.79,1115.67 2980,970.337 2980,793.25C2980,616.163 3112.79,470.832 3282,455.938L3282,291.188ZM3342,291.188L3342,456.188C3509.97,472.326 3641.44,617.066 3641.44,793.25C3641.44,969.434 3509.97,1114.17 3342,1130.31L3342,1289.44C3604.18,1273.92 3812,1056.38 3812,790.313C3812,524.241 3604.18,306.7 3342,291.188Z" style="fill:rgb(51,128,0);"/>
+            </g>
+            <g id="path15071" transform="matrix(0.200742,0,0,-0.200742,-391.103,451.133)">
+                <path d="M3282,381.406C3069.57,396.773 2902,573.968 2902,790.313C2902,1006.66 3069.57,1183.85 3282,1199.22L3282,1083.78C3133.17,1068.75 3017,943.107 3017,790.313C3017,637.518 3133.17,511.879 3282,496.844L3282,381.406ZM3342,381.406L3342,496.844C3490.83,511.879 3607,637.518 3607,790.313C3607,943.107 3490.83,1068.75 3342,1083.78L3342,1199.22C3554.43,1183.85 3722,1006.66 3722,790.313C3722,573.968 3554.43,396.773 3342,381.406Z" style="fill:rgb(81,156,32);"/>
+            </g>
+            <g id="image15116" transform="matrix(0.190468,0,0,-0.200742,279.817,304.831)">
+                <use xlink:href="#_Image1" x="0" y="0" width="321px" height="123px"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,-1,42.2984,139.449)">
+            <g id="text212">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:46.722px;fill:rgb(45,80,22);">CREATIV</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,-1,239.591,139.449)">
+            <g id="text216">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:46.722px;fill:rgb(141,211,95);">energie</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="321px" height="123px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAAB7CAYAAADqmDJOAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABxklEQVR4nO3UsQ3CQADAQEBEEdIXqWjSsBL7ZVJShDG+8N0Ernz/Hp/rBhA01u16zI4AmMkEgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIM0EgTQTBNJMEEgzQSDNBIE0EwTSTBBIM0EgzQSBNBME0kwQSDNBIO35Hvs5OwJghtcyfn8o0AZytY0GnAAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
