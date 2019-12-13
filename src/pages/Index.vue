@@ -2,7 +2,7 @@
 	<q-page>
 		<div class="full-width row justify-evenly wrap mobile-desktop">
 			<div
-				class="col-md-8 col-xs-12 q-pl-xl q-pr-xl q-pt-xl q-pb-md"
+				class="col-md-8 col-xs-12 q-pl-md q-pr-xl q-pt-xl q-pb-md"
 			>
 
 				<div class="q-video video-container">
@@ -32,7 +32,7 @@
 				</div>
 				<div class="q-py-md">
 					<TotalRaised />
-					<div class="text-subtitle2 text-grey-7">
+					<div class="text-subtitle2 text-grey-7 junction-light">
 						Updated several times a week
 					</div>
 				</div>
@@ -246,13 +246,13 @@
 			<div class="col-md-4">
 				<div class="q-pa-md">
 					<div class="q-gutter-y-md" style="max-width: 600px">
-						<div class="text-h6 junction-regular q-pt-md">
+						<div class="text-h6 junction-bold q-pt-md">
 							Impact
 						</div>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
-								<div class="text-h6">£4 Support</div>
+								<div class="text-h6 junction-bold">£4 Support</div>
 							</q-card-section>
 
 							<q-card-section>
@@ -274,9 +274,9 @@
 							</q-card-section>
 						</q-card>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
-								<div class="text-h6">£12 support</div>
+								<div class="text-h6 junction-bold">£12 support</div>
 							</q-card-section>
 
 							<q-card-section>
@@ -288,9 +288,9 @@
 							</q-card-section>
 						</q-card>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
-								<div class="text-h6">£22 support</div>
+								<div class="text-h6 junction-bold">£22 support</div>
 							</q-card-section>
 
 							<q-card-section>
@@ -303,9 +303,9 @@
 							</q-card-section>
 						</q-card>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
-								<div class="text-h6">£50-100 support</div>
+								<div class="text-h6 junction-bold">£50-100 support</div>
 							</q-card-section>
 
 							<q-card-section>
