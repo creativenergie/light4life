@@ -1,5 +1,5 @@
 <template>
-  <div class="text-h5">
+  <div class="text-h6 junction-bold">
     <span style="float:left" >
       £{{amount}} Raised
     </span>
