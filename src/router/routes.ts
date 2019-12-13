@@ -6,7 +6,7 @@ const routes: RouteConfig[] = [
     path: '/',
     // component: () => import('layouts/MyLayout.vue'),
     component: MyLayout,
-    children: [{ path: '', component: () => import('pages/Index.vue') }]
+    children: [{ path: '', component: () => import('pages/Index.vue') }, { path: 'thankyou', component: () => import('pages/ThankYou.vue') }]
   }
 ];
 

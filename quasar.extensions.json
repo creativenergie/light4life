@@ -4,5 +4,22 @@
     "rename": true,
     "vscode": true,
     "prettier": true
+  },
+  "@quasar/icon-genie": {
+    "minify_dev": "pngquant",
+    "minify_build": "optipng",
+    "cordova": {
+      "background_color": "#f7ed4a",
+      "splashscreen_type": "generate"
+    },
+    "build_always": true,
+    "__internal": {
+      "dev": {
+        "spa": {
+          "iconHash": "281e7aef34b9c706398e2174cb7a092b"
+        }
+      },
+      "build": {}
+    }
   }
 }

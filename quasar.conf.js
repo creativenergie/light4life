@@ -30,7 +30,8 @@ module.exports = function (ctx) {
       // 'roboto-font-latin-ext', // this or either 'roboto-font', NEVER both!
 
       'roboto-font', // optional, you are not bound to it
-      'material-icons' // optional, you are not bound to it
+	  'material-icons', // optional, you are not bound to it
+	  'ionicons-v4'
     ],
 
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-framework
@@ -47,15 +48,15 @@ module.exports = function (ctx) {
       //            (not treeshaking Quasar; biggest bundle size; convenient)
       all: 'auto',
 
-      components: ['QVideo', 'QBtn', 'QLinearProgress', 'QTabPanels', 'QTabPanel', 'QCard', 'QCardSection', 'QCardActions', 'QSeparator'],
+      components: ['QVideo', 'QBtn', 'QLinearProgress', 'QTabPanels', 'QTabPanel', 'QCard', 'QCardSection', 'QCardActions', 'QSeparator', 'QImg'],
       directives: [],
 
       // Quasar plugins
 	  plugins: [],
 	  config: {
-		screen: {
+        screen: {
 		  bodyClasses: true
-		}
+        }
 	  }
     },
 
@@ -65,7 +66,7 @@ module.exports = function (ctx) {
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-build
     build: {
       scopeHoisting: true,
-      // vueRouterMode: 'history',
+      vueRouterMode: 'history',
       // showProgress: false,
       // gzip: true,
       // analyze: true,

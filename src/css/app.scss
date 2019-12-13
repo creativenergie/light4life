@@ -1,8 +1,29 @@
 // app global css in SCSS form
 
 
-@mixin mobile-theme-screen {
-    @media only screen and (max-width: $breakpoint-xs-max) {
-        @content;
-    }
+@font-face {
+	font-family: junction-bold;
+	src: url(./fonts/junction-bold.woff);
+  }
+
+@font-face {
+font-family: junction-light;
+src: url(./fonts/junction-light.woff);
+}
+
+@font-face {
+font-family: junction-regular;
+src: url(./fonts/junction-regular.woff);
+}
+
+.junction-bold {
+	font-family: 'junction-bold';
+  }
+
+.junction-light {
+font-family: 'junction-light';
+}
+
+.junction-regular {
+font-family: 'junction-regular';
 }
