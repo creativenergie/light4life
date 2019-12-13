@@ -4,7 +4,6 @@
 			reveal
 			bordered
 			class="bg-primary text-black junction-bold no-border; display:inline-block"
-			style="height: 100px"
 		>
 			<div class="q-pl-lg q-ma-md q-pa-md text-h3" style="float:left">
 				Light for Life
@@ -12,7 +11,7 @@
 			<q-avatar
 				@click="creativenergieWebsite"
 				size="100px"
-				class="hide-for-mobile q-pa-sm q-mx-sm"
+				class="hide-for-mobile q-pa-md q-mx-lg"
 				style="float:right;"
 			>
 				<img src="statics/CreativenergieLogo.svg" />
@@ -20,7 +19,7 @@
 			<q-avatar
 				@click="loveGhanaWebsite"
 				size="100px"
-				class="hide-for-mobile q-pa-sm q-mx-sm"
+				class="hide-for-mobile q-pa-md q-mx-md"
 				style="float:right;"
 			>
 				<img src="statics/LoveGhanaLogo.svg" />
@@ -34,7 +33,7 @@
 		<div class="full-width footer bg-blue-grey-1">
 			<div class="row justify-between items-end">
 				<div class="col-xs-12 col-sm-4">
-					<div class="q-ma-sm  q-pb-lg">
+					<div class="q-ma-sm  q-pb-md">
 						<q-img
 							@click="creativenergieWebsite"
 							src="statics/CreativenergieLogo.svg"
@@ -47,14 +46,14 @@
 						CREATIVenergie, 19 Windsor Place Portobello Edinburgh
 						EH15 2AJ
 					</p>
-					<div class="row justify-around items-center q-my-sm">
+					<div class="row justify-evenly q-my-sm">
 					<div><q-btn flat round color="indigo" icon="ion-logo-facebook" @click="creativenergieFacebook" size='md'/></div>
 					<div><q-btn flat round color="black" icon="ion-logo-instagram" @click="creativenergieInstagram" size='md'/></div>
 					<div><q-btn flat round color="blue" icon="ion-logo-twitter" @click="creativenergieTwitter"  size='md'/></div>
 				</div>
 				</div>
 				<div class="col-sm-4">
-					<div class="q-xs-12 col-sm-4 q-pb-lg">
+					<div class="q-xs-12 col-sm-4 q-pb-md">
 						<q-img
 							@click="loveGhanaWebsite"
 							src="statics/LoveGhanaLogo.svg"
@@ -68,7 +67,7 @@
 						Love Ghana, Lighthouse Central, West Loan, Prestonpans,
 						East Lothian, EH32 9NT
 					</p>
-					<div class="row justify-around items-center q-my-sm">
+					<div class="row justify-evenly q-my-sm">
 					<div><q-btn flat round color="indigo" icon="ion-logo-facebook" @click="loveghanaFacebook" href='https://www.facebook.com/CREATIVenergie-1514630308823255/' size='md'/></div>
 					<div><q-btn flat round color="black" icon="ion-logo-instagram" @click="loveghanaInstagram" size='md'/></div>
 				</div>

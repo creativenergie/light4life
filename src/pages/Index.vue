@@ -250,7 +250,7 @@
 							Impact
 						</div>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
 								<div class="text-h6">£4 Support</div>
 							</q-card-section>
@@ -274,7 +274,7 @@
 							</q-card-section>
 						</q-card>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
 								<div class="text-h6">£12 support</div>
 							</q-card-section>
@@ -288,7 +288,7 @@
 							</q-card-section>
 						</q-card>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
 								<div class="text-h6">£22 support</div>
 							</q-card-section>
@@ -303,7 +303,7 @@
 							</q-card-section>
 						</q-card>
 
-						<q-card flat bordered class="my-card">
+						<q-card flat bordered class="bg-primary">
 							<q-card-section>
 								<div class="text-h6">£50-100 support</div>
 							</q-card-section>
