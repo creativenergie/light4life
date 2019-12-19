@@ -40,7 +40,7 @@
         <div class="row justify-start items-center q-my-xl">
           <div class="text-h6 junction-light">Share on</div>
           <social-sharing
-            url="https://www.solarexchange.org"
+            url="https://lightfor.life"
             inline-template
           >
             <div>
